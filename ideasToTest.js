@@ -2,7 +2,9 @@ import fetch from 'node-fetch';
 import * as fs from 'fs';
 import 'dotenv/config'
 
+
 const KEY = process.env.API_KEY
+
 
 // REQUEST FUNCTION 
 

@@ -2,6 +2,7 @@ import fetch from 'node-fetch'
 import * as readline from "readline"
 import 'dotenv/config'
 
+
 const KEY = process.env.API_KEY
 
 
