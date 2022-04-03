@@ -1,5 +1,8 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs';
+import 'dotenv/config'
+
+const KEY = process.env.API_KEY
 
 // REQUEST FUNCTION 
 
@@ -9,7 +12,7 @@ async function request(what) {
         "headers": {
             "Content-Type": "application/json",
             "accept": "application/json",
-            "Authorization": "Bearer <API KEY>"
+            "Authorization": `Bearer ${KEY}`
         },
         "body": JSON.stringify({
             "prompt": what,

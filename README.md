@@ -115,7 +115,22 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+# Multi testing
+
+Enter your tests in the `input.txt` file and run the following command :
+
+```sh
+node ideasToTest.js
+```
+
+# Single test
+
+Run the following command and follow the instructions :
+
+```sh
+node console.js
+```
+
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
