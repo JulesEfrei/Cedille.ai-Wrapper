@@ -195,7 +195,7 @@ GitHub Profile: [JulesEfrei](https://github.com/JulesEfrei/)
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information. If no license is available in the repository, it will be available one day, I hope.
+Distributed under the MIT License. See `LICENSE` for more information. If no license is available in the repository, it will be available one day, I hope.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
