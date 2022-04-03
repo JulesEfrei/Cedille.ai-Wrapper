@@ -66,7 +66,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-* What the application does ?
+Cedille.ai-Wrapper allows you to test as you want the AI of Cedille.ai, a AI about generating text from some words.
 
 **State of the project => v.1.0.0**
 
@@ -115,7 +115,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-# Multi testing
+### Multi testing
 
 Enter your tests in the `input.txt` file and run the following command :
 
@@ -123,7 +123,7 @@ Enter your tests in the `input.txt` file and run the following command :
 node ideasToTest.js
 ```
 
-# Single test
+### Single test
 
 Run the following command and follow the instructions :
 
